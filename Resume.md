@@ -86,6 +86,7 @@ Supported public-sector framework agreement execution across 6 sequential market
 - **Languages**: French (Native), English (Fluent), Spanish (Professional)  
 - **CRM & Tools**: Salesforce, HubSpot, Zoho, Zendesk, Notion, Office 365  
 - **Design & Presentation**: Canva, Prezi, **Mintlify**  
+- **Programming**: Python (Flask, prototyping, API integrations), HTML/CSS (docs, demos), plus foundational C, C++, C#, PHP from engineering studies  
 - **Technical**: RAG (text, table, image, graph), API integrations (LightOn, Google Drive/Sheets, Claude), Flask, Chrome Extensions  
 - **Domains**: HR, Legal, Procurement, Customer Support, Data Governance  
 - **Methodologies**: POC lifecycle, workshop facilitation (on-site & remote), admin enablement, guardrail design (PII, refusal policies)
@@ -94,11 +95,15 @@ Supported public-sector framework agreement execution across 6 sequential market
 
 ## Education
 
+- **AWS Certified Cloud Practitioner**  
+  *In progress* | Expected completion: Q1 2026
+  
 - **2019 — EURIDIS Business School**  
-  Master’s in B2B Sales (IT specialization) - *Ingénieur d’Affaires En Hautes Technologies*
+  Master’s in B2B Sales (IT specialization)
 
 - **2016 — ESAIP Engineering School**  
-  Bachelor’s in IT Engineering | TOEIC: 955/990
+  Bachelor’s in IT Engineering | TOEIC: 955/990  
+  *Relevant coursework*: C, C++, C#, PHP, algorithms, databases
 
 ---
 
