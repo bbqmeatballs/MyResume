@@ -99,3 +99,14 @@ Supported public-sector framework agreement execution across 6 sequential market
 
 - **2016 — ESAIP Engineering School**  
   Bachelor’s in IT Engineering | TOEIC: 955/990
+
+---
+
+## Hobbies
+
+- **🎮 Gaming**: Former intensive player (75h/2w peaks); now a relaxed monthly enjoyer and live-event spectator.  
+- **🎵 Music**: Create songs with Suno — from friendly “Who’s the best creator?” evenings to personalized gifts for colleagues.  
+- **🏓 Table Tennis**: Regional champion 🏆; competed nationally. Now enjoys Sunday rallies and armchair commentary.  
+- **🎨 Making Things**: Earrings, pottery — tactile creativity as a grounding counterpoint to digital work.
+
+Always building—whether it’s a brass rod, a pair of metal earrings, or the next release pipeline. If it sparks curiosity, I’m in.
